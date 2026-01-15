@@ -1,2 +1,3 @@
 #define MICROPY_HW_BOARD_NAME "NodeMCU-ESP-32S"
 #define MICROPY_HW_MCU_NAME "xtensa-lx6-32"
+#define MICROPY_PY_NETWORK_HOSTNAME_DEFAULT "microwsh"
